@@ -5,7 +5,7 @@
       <img  src="https://github.com/inupaUdara/gym-management-system/blob/final/client/src/assets/cjgym.png"  alt="Logo" >
   </a>
 </h1>
-<p align=center>Gym Management System</p>
+<p align=center>Gym Management Web Application</p>
 <br>
 
 ## Project Description
